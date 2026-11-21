@@ -1,9 +1,1 @@
-# I am Benjamin
-## About me
-
-Data analyst | Customer  Service Representative
-I am a certified data analyst
-
-| Column 1 | Column 2| 
-|---|---|
-| Row 1| Row2|
+Results-oriented professional with a BSc. in Administration from the University of Ghana and experience across the energy, transport, banking, and hospitality sectors. Skilled in business operations, problem-solving, communication, and data-driven thinking. Passionate about leveraging analytical and technical skills to transform data into actionable insights, support informed decision-making, and build a successful career as a Data Analyst.
